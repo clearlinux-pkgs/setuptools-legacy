@@ -1,0 +1,6 @@
+# This file contains build requirements that get picked up but are
+# undesirable. One entry per line, no whitespace.
+tests-python
+tests.test_markers-python
+tests.test_pkg_resources-python
+tests.test_resources-python
