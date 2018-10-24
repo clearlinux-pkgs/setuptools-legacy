@@ -1,6 +1,6 @@
 Name     : setuptools-legacy
 Version  : 39.0.1
-Release  : 114
+Release  : 115
 URL      : https://pypi.python.org/packages/72/c2/c09362ab29338413ab687b47dab03bab4a792e2bbb727a1eb5e0a88e3b86/setuptools-39.0.1.zip
 Source0  : https://pypi.python.org/packages/72/c2/c09362ab29338413ab687b47dab03bab4a792e2bbb727a1eb5e0a88e3b86/setuptools-39.0.1.zip
 Summary  : Easily download, build, install, upgrade, and uninstall Python packages
