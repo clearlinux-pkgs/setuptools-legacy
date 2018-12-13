@@ -94,6 +94,7 @@ python2 -tt setup.py build -b py2 install --root=%{buildroot}
 
 %files -n setuptools-legacypython
 %defattr(-,root,root,-)
+%exclude /usr/lib/python2.7/site-packages/setuptools/*.exe
 /usr/lib/python2*/*
 
 %files license
